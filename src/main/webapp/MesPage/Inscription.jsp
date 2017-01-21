@@ -75,7 +75,7 @@
                                             <input type="password" class="form-control" id="password2" placeholder="Password" required style="width: 100%;">
                                         </div>
                                         <div class="form-group">
-                                             <div class="g-recaptcha" data-sitekey="6LdfhhIUAAAAAIkxHL69E6UtE4odJXP0Zg2pokyZ"></div>
+                                             <div class="g-recaptcha" data-sitekey="6Le6rRIUAAAAAH1wJmkpu83YyhzrJDOkxMUN9Fsv"></div>
                                         </div>
                                         <div class="form-group">
                                             <div class="" style="text-align:left;padding-top: 5px;">

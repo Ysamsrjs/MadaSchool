@@ -20,7 +20,7 @@
     <link rel="stylesheet" href="Outil/css/login.css">
     <link rel="stylesheet" href="Outil/css/templatemo_style.css">
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-    <script src='Outil/js/api.js'></script>
+   <script src='https://www.google.com/recaptcha/api.js'></script>
 
     <script src="Outil/js/vendor/modernizr-2.6.2.min.js"></script>
 
