@@ -28,5 +28,11 @@ public class Inscription extends HttpServlet {
        fwrd.forward(request, response);
     }
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+       String paramid=request.getParameter("detailcours");
+       String link="MesPage/Inscription.jsp";
+       ServletContext context=request.getServletContext();
+       context.setAttribute("dtcours", paramid);
+       RequestDispatcher fwrd= request.getRequestDispatcher(link);
+       fwrd.forward(request, response);
     }
 }
